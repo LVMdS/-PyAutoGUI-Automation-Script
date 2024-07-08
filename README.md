@@ -8,8 +8,8 @@ Este script usa a biblioteca PyAutoGUI para automatizar algumas tarefas no Windo
 - Biblioteca PyAutoGUI
 - Biblioteca time
 
-## Obs
-No trecho do codigo "pyautogui.moveTo" - inserir posição conforme o tamanho de seu monitor de uso.
+## Observações
+As coordenadas do mouse (moveTo) podem precisar ser ajustadas dependendo da resolução da tela e da posição das janelas.
 
 ## Instalação
 
